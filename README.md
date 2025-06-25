@@ -15,20 +15,20 @@
 <br />
 <br />
 
-Hi there, I'm **Mohammad Zamran**, a **Software Engineering student** 🚀 from Lahore, Pakistan.
+Hi there, I'm **ARPIT SINGHAL**, a **Software Engineering student** 🚀 from INDIA.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a CSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
+- 👨🏽‍💻 I’m currently a student at SRM INSTITUTE OF SCIENCE AND TECHNOLOGY.
+- 🌱 I’m currently exploring Web Development and Data Analytics. 
+- 🤔 My interests are AI/ML, Web3, Business development and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+- 📫 Email me at [arpitsinghal00001@gmail.com](mailto:arpitsinghal00001@gmail.com).
+- 📝 See my [Curriculum Vitae](https://docs.google.com/document/d/15PWhbNGdnFbKQnOWs1pZcLnCVz9EXAWU/edit?usp=sharing&ouid=105299141853472351662&rtpof=true&sd=true) to get more info.
 
 
 **Languages and Tools:**  

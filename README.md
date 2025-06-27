@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Analytics and Web Development**
 
-- 👨‍💻 All of my projects are available at [www.arpitsinghal.com](www.arpitsinghal.com)
+- 👨‍💻 All of my projects are available at [www.arpitsinghal.com](https://arpitsinghal.vercel.app/)
 
 - 💬 Ask me about **AI/ML, Web3, Business Solutions**
 

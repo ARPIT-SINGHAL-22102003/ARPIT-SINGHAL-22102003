@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/enchantedreporuler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/enchantedreporuler" height="30" width="40" /></a>
+<a href="[https://codepen.io/https://codepen.io/enchantedreporuler](https://codepen.io/ARPIT-SINGHAL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/enchantedreporuler" height="30" width="40" /></a>
 <a href="https://twitter.com/nmarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nmarpit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arpitsinghal22102003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpitsinghal22102003/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/arpitsinghal00001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arpitsinghal00001" height="30" width="40" /></a>
